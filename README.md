@@ -1,7 +1,7 @@
 # RISK-ANALYISIS
 Risk analyisis for S&amp;P500 companies
 
-Run the **medicion completo** file and get feedback from the code.
+Run the **complete-risk-analysis.ipynb** file and get feedback from the code.
 
 
 Run the code on a valid API ( I will try to upload once mine has expired)
